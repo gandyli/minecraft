@@ -1,0 +1,102 @@
+{
+  "f3Enabled": true,
+  "recipeBookEnabled": true,
+  "inventory": [
+    {
+      "name": "iron_axe",
+      "slot": 1
+    },
+    {
+      "name": "iron_pickaxe",
+      "slot": 2
+    },
+    {
+      "name": "iron_shovel",
+      "slot": 3
+    },
+    {
+      "name": "lava_bucket",
+      "slot": 4
+    },
+    {
+      "name": "nether_bricks",
+      "slot": 5
+    },
+    {
+      "name": "oak_boat",
+      "slot": 6
+    },
+    {
+      "name": "crafting_table",
+      "slot": 7
+    },
+    {
+      "name": "flint_and_steel",
+      "slot": 8
+    },
+    {
+      "name": "ender_pearl",
+      "slot": 9
+    },
+    {
+      "name": "iron_ingot",
+      "slot": 10
+    },
+    {
+      "name": "oak_planks",
+      "slot": 11
+    },
+    {
+      "name": "glowstone_dust",
+      "slot": 12
+    },
+    {
+      "name": "blaze_rod",
+      "slot": 13
+    },
+    {
+      "name": "obsidian",
+      "slot": 14
+    },
+    {
+      "name": "crying_obsidian",
+      "slot": 15
+    },
+    {
+      "name": "arrow",
+      "slot": 16
+    },
+    {
+      "name": "string",
+      "slot": 17
+    },
+    {
+      "name": "soul_sand",
+      "slot": 18
+    },
+    {
+      "name": "fire_charge",
+      "slot": 19
+    },
+    {
+      "name": "potion",
+      "slot": 20
+    },
+    {
+      "name": "splash_potion",
+      "slot": 21
+    },
+    {
+      "name": "iron_boots",
+      "slot": 37
+    },
+    {
+      "name": "golden_helmet",
+      "slot": 40
+    },
+    {
+      "name": "bread",
+      "slot": 41
+    }
+  ]
+}

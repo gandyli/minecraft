@@ -1,0 +1,27 @@
+{
+  "loading_screen": {
+    "_description": "It works when instance is in the world loading screen. minimum (fps_limit) is 15.",
+    "enable": true,
+    "fps_limit": 30
+  },
+  "legacy_mode": {
+    "_description": "It will be uses the method of Dynamic Menu FPS. Performance will be degraded.",
+    "enable": false
+  },
+  "world_preview": {
+    "_description": "config for world preview, every time (loading_screen) is rendered (render_times) times, will be render a preview. ex) if (loading_screen.fps_limit) is 30 and this value is 2, preview fps will be 15 (as 30 / 2).",
+    "enable": true,
+    "render_times": 5
+  },
+  "background": {
+    "_description": "It works when instance is in the background after joined the world.",
+    "enable": true,
+    "fps_limit": 1
+  },
+  "world_setup": {
+    "_description": "same with (background) config but for (max_ticks) ticks after the joined the world.",
+    "enable": true,
+    "fps_limit": 10,
+    "max_ticks": 30
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "f3Enabled": true,
+    "recipeBookEnabled": true,
+    "inventory": [
+      {
+        "name": "iron_axe",
+        "slot": 1
+      },
+      {
+        "name": "crafting_table",
+        "slot": 2
+      },
+      {
+        "name": "lava_bucket",
+        "slot": 3
+      },
+      {
+        "name": "iron_pickaxe",
+        "slot": 4
+      },
+      {
+        "name": "iron_shovel",
+        "slot": 6
+      },
+      {
+        "name": "oak_boat",
+        "slot": 7
+      },
+      {
+        "name": "flint_and_steel",
+        "slot": 8
+      },
+      {
+        "name": "ender_pearl",
+        "slot": 9
+      },
+      {
+        "name": "bread",
+        "slot": 41
+      }
+    ]
+  }
+  
